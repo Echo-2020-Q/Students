@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1604023513 source:d:\c_experience_5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1603936696 source:d:\protecet\c_experience_5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1604372237 source:d:\protecet\c_experience_6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1604385399 source:c:\users\lenovo\desktop\c_experience_6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1604540329 source:d:\protecet\c_experience_7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
